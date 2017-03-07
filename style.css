@@ -1,0 +1,185 @@
+
+body {
+  
+  margin:0;    
+  
+  background-repeat: none;
+  background-size: 80px;
+  background-color: pink;
+  color: #e75480;             
+  background: #fff url("images/cupcake-wall-paper.jpg") repeat 0 0;    
+  background-image:  url("images/cupcake-wall-paper.jpg") repeat 0 0; 
+  }
+.head-container {
+    width: 873px;
+    overflow: auto;
+    margin: auto  ;
+   
+    
+}
+.main {
+  overflow: auto;
+  margin: 0 auto;
+  width: 800px;
+  padding: 75px 50px 10px;
+  height: 100%;
+  min-height: 2000px;
+  background-color: #fafafa;
+  border-left: px dotted ;
+  border-right: px dotted;
+}
+
+h2 {
+}
+#header {
+  position: fixed;
+  background-color: pink;
+  top: 0;
+  right: 170px;
+  left: 170px;
+  color: black;
+  width: 73%;
+
+}
+.green {
+  color: #548B54;
+}
+#header ul{
+  list-style-type: none;
+}
+
+#menu_image {
+  float: right;
+}
+#header img {
+  margin-top: 7px;
+}
+#menu {
+  float: right;
+  
+}
+#header li{
+  float: left;
+  padding-left: 10px;
+  padding-bottom: 10px ;
+  margin-left: 10px;
+  border-left: 1px solid #548B54;
+}
+#header li a {
+  color: #548B54;
+}
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+#logo {
+  background: url("images/tc-logo.jpg") no-repeat 0 0;
+  background-size: 35%;
+  height: 300px;
+  border-bottom: 1px solid; 
+}
+#logotext {
+  float: right;
+  margin-top: 125px;
+
+}
+
+#logo h1 {
+  font-size: 60px;
+  margin-bottom: 10px;
+  color: #548B54;
+  border-bottom: 1px solid #548B54;
+  background: transparent;
+}
+#logo h2 {
+  text-align: center;
+  margin-top: 10px;
+} 
+.separator {
+  width: 100%;
+  background: #fafafa url("images/cupcake-tree.jpg") no-repeat 0 0;
+  height: 45px;
+  margin: 10px 0 10px;
+  background-size: 100px;
+  
+}
+.curl {
+  background: #fafafa url("images/cupcake-tree.jpg") no-repeat 0 0;
+  padding-left: 116px;
+  padding-top: 10px;
+  background-size: 100px;
+}
+#gallery-inner {
+  overflow: auto;
+  margin: 40px auto;
+
+}
+#shift-left {
+   overflow: auto;
+   margin: 40px auto;
+        
+}
+.store-bg {
+  background: url("images/cupcake-tree");
+  background-size: 152px;
+  padding-bottom: 30px;
+}
+#about {
+  border-bottom: 1px solid #228B22;
+  padding-bottom: 20px;
+}
+#History {
+  border-bottom: 1px solid #228B22;
+  padding-bottom: 20px;
+}
+.portfolio-element {
+  float: left;
+  margin: 10px;
+  width: 130px;
+}
+.portfolio-element img {
+   width: 130px;
+}
+.gallery-element {
+  float: left;
+  margin: 20px;
+  width: 140px;
+}
+.gallery-element img {
+    width: 140px;
+   
+}
+#Store {
+  margin-bottom: 20px;
+}
+.dashed-border {
+  border-top: 1px dashed #000;
+}
+#footer {
+  height: 350px;
+  background: #fafafa url("images/wallpaper-pink.png") no-repeat center center;
+  background-size: 80%;
+  padding-bottom: 150px;
+}
+#footer h3 {
+  font-size: 35px;
+  padding-top: 0px;
+
+}
+#footer a {
+  font-size: 20px;
+}
+#contact {
+  text-align: center;
+  padding-top: 115px;
+  color: #228B22;
+
+}
+#bottom-footer {
+  font-size: 20px;
+  text-align: center;
+
+}
+#mission #about #store #contact {
+  padding-top: 25px;
+}
